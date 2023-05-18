@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hooks-context-use-json-fetch/static/css/main.73efc72c.css",
+    "main.js": "/react-hooks-context-use-json-fetch/static/js/main.fb18a8f6.js",
+    "static/js/787.6a8b0388.chunk.js": "/react-hooks-context-use-json-fetch/static/js/787.6a8b0388.chunk.js",
+    "index.html": "/react-hooks-context-use-json-fetch/index.html",
+    "main.73efc72c.css.map": "/react-hooks-context-use-json-fetch/static/css/main.73efc72c.css.map",
+    "main.fb18a8f6.js.map": "/react-hooks-context-use-json-fetch/static/js/main.fb18a8f6.js.map",
+    "787.6a8b0388.chunk.js.map": "/react-hooks-context-use-json-fetch/static/js/787.6a8b0388.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73efc72c.css",
+    "static/js/main.fb18a8f6.js"
+  ]
+}
